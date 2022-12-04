@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Nicolas Skatchkovsky's website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Nicolas Skatchkovsky"
 description              : &description "Post-doctoral researcher, King's College London"
